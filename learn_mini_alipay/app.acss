@@ -20,7 +20,7 @@ page {
   margin-bottom: 32rpx;
 }
 
-.page-section-title {
+. {
   padding: 16rpx 32rpx;
 }
 
