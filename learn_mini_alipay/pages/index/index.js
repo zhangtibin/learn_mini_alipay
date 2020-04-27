@@ -24,6 +24,36 @@ Page({
   onReachBottom() {
     // 页面被拉到底部
   },
+  onSubmit() {
+    //点击按钮提交
+    // my.alert({ title: 'You click submit' });
+    // 进行页面跳转
+    my.navigateTo({ url: '../view_container/view_container' });
+  },
+  onSwiper() {
+    my.navigateTo({ url: '../swiper/swiper' });
+  },
+  onScrollView() {
+    my.navigateTo({url:'../scroll-view/scroll-view'});
+  },
+  onCoverView() {
+    my.navigateTo({url:'../cover-view/cover-view'});
+  },
+  onCoverImage(){
+    my.navigateTo({url:'../cover-image/cover-image'});
+  },
+  onMovableView(){
+    my.navigateTo({url:'../movable-view/movable-view'});
+  },
+  onMovableArea(){
+    my.navigateTo({url:'../movable-area/movable-area'});
+  },
+  onText(){
+    my.navigateTo({url:'../text/text'});
+  },
+  onIcon () {
+    my.navigateTo({url:'../icon/icon'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

@@ -1,7 +1,47 @@
 
-<view>
-  this is a blank page
+<view class="page">
+  <view class="view-descrition"></view>
+  <view class="page-section">
+
+    <form class="viewButton" onSubmit="onSubmit" onReset="onReset">
+        <button form-type="submit" type="primary">view</button>
+    </form>
+
+    <form class="swiperButton" onSubmit="onSwiper" onReset="onReset">
+        <button form-type="submit" type="primary">swiper</button>
+    </form>
+
+    <form class="scrollViewButton" onSubmit="onScrollView" onReset="onReset">
+        <button form-type="submit" type="primary">scrollView</button>
+    </form>
+
+    <form class="coverViewButton" onSubmit="onCoverView" onReset="onReset">
+        <button form-type="submit" type="primary">coverView</button>
+    </form>
+
+    <form class="coverImageButton" onSubmit="onCoverImage" onReset="onReset">
+        <button form-type="submit" type="primary">coverImage</button>
+    </form>
+
+    <form class="movableViewButton" onSubmit="onMovableView" onReset="onReset">
+        <button form-type="submit" type="primary">MovableView</button>
+    </form>
+
+    <form class="movableAreaButton" onSubmit="onMovableArea" onReset="onReset">
+        <button form-type="submit" type="primary">MovableArea</button>
+    </form>
+
+    <form class="textButton" onSubmit="onText" onReset="onReset">
+        <button form-type="submit" type="primary">text</button>
+    </form>
+
+    <form class="iconButton" onSubmit="onIcon" onReset="onReset">
+        <button form-type="submit" type="primary">icon</button>
+    </form>
+
+  </view>
+  
 </view>
-<view>
-Hello world
-</view>
+
+
+

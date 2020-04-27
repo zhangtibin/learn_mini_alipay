@@ -1,8 +1,17 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/view_container/view_container",
+    "pages/swiper/swiper",
+    "pages/scroll-view/scroll-view",
+    "pages/cover-view/cover-view",
+    "pages/cover-image/cover-image",
+    "pages/movable-view/movable-view",
+    "pages/movable-area/movable-area",
+    "pages/text/text",
+    "pages/icon/icon"
   ],
   "window": {
-    "defaultTitle": "My App"
+    "defaultTitle": "汇来米"
   }
 }
