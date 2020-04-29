@@ -9,7 +9,21 @@
     "pages/movable-view/movable-view",
     "pages/movable-area/movable-area",
     "pages/text/text",
-    "pages/icon/icon"
+    "pages/icon/icon",
+    "pages/login/login",
+    "pages/progress-view/progress-view",
+    "pages/rich-text/rich-text",
+    "pages/button/button",
+    "pages/form/form",
+    "pages/label/label",
+    "pages/input/input",
+    "pages/textarea/textarea",
+    "pages/radio/radio",
+    "pages/radio-group/radio-group",
+    "pages/switch/switch",
+    "pages/slider/slider",
+    "pages/picker-view/picker-view",
+    "pages/picker/picker"
   ],
   "window": {
     "defaultTitle": "汇来米"

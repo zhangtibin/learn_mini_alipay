@@ -34,3 +34,52 @@
     padding: 30rpx;
     background:f7f7f7,
 }
+.loginButton {
+    padding: 30rpx;
+    background:f7f7f7,
+}
+.progressButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.richTextButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.button {
+    padding:30rpx;
+    background:f7f7f7,
+}
+
+.labelButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.inputButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.textareaButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.radioButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.switchButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.sliderButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.pickerViewButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.pickerButton{
+    padding:30rpx;
+    background:f7f7f7,
+}

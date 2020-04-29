@@ -54,6 +54,45 @@ Page({
   onIcon () {
     my.navigateTo({url:'../icon/icon'});
   },
+  onLogin() {
+    my.navigateTo({url:'../login/login'});
+  },
+  onProgress() {
+    my.navigateTo({url:'../progress-view/progress-view'});
+  },
+  onRichText() {
+    my.navigateTo({url:'../rich-text/rich-text'});
+  },
+  onButton() {
+    my.navigateTo({url:'../button/button'});
+  },
+  onForm() {
+    my.navigateTo({url:'../form/form'});
+  },
+  onLabel() {
+    my.navigateTo({url:'../label/label'});
+  },
+  onInput() {
+    my.navigateTo({url:'../input/input'});
+  },
+  onTextarea(){
+    my.navigateTo({url:'../textarea/textarea'});
+  },
+  onRadio() {
+    my.navigateTo({url:'../radio/radio'});
+  },
+  onSwitch() {
+    my.navigateTo({url:'../switch/switch'});
+  },
+  onSlider() {
+    my.navigateTo({url:'../slider/slider'});
+  },
+  onPickerView(){
+    my.navigateTo({url:'../picker-view/picker-view'});
+  },
+  onPicker(){
+    my.navigateTo({url:'../picker/picker'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {
