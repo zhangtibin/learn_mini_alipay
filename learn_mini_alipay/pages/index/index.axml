@@ -3,6 +3,28 @@
   <view class="view-descrition"></view>
 
     <view class="page-section">
+        <form class="mapButton" onSubmit="onMap" onReset="onReset">
+            <button form-type="submit" type="primary">map</button>
+        </form>
+    </view>
+
+    <view class="page-section">
+        <form class="canvasButton" onSubmit="onCanvas" onReset="onReset">
+            <button form-type="submit" type="primary">canvas</button>
+        </form>
+    </view>
+
+    <view class="page-section">
+        <form class="mediaImageButton" onSubmit="onMediaImage" onReset="onReset">
+            <button form-type="submit" type="primary">mediaImage</button>
+        </form>
+
+        <form class="meidaVideoButton" onSubmit="onMediaVideo" onReset="onReset">
+            <button form-type="submit" type="primary">mediaVideo</button>
+        </form>
+    </view>
+
+    <view class="page-section">
         <form class="radioButton" onSubmit="onRadio" onReset="onReset">
             <button form-type="submit" type="primary">radio</button>
         </form>

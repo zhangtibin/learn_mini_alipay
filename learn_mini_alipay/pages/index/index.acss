@@ -87,3 +87,19 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.mediaImageButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.meidaVideoButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.canvasButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.mapButton {
+    padding:30rpx;
+    background:f7f7f7,
+}

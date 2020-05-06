@@ -96,6 +96,19 @@ Page({
   onNavigator(){
         my.navigateTo({url:'../navigator/navigator'});
   },
+  onMediaImage(){
+    my.navigateTo({url:'../media-image/media-image'});
+  },
+  onMediaVideo(){
+    my.navigateTo({url:'../media-video/media-video'});
+  },
+  onCanvas(){
+    my.navigateTo({url:'../canvas/canvas'});
+  },
+  onMap(){
+    my.navigateTo({url:'../map/map'});
+  },
+
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

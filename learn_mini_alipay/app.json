@@ -27,7 +27,11 @@
     "pages/navigator/navigator",
     "pages/navigator/navigate/navigate",
     "pages/navigator/reLaunch/reLaunch",
-    "pages/navigator/redirect/redirect"
+    "pages/navigator/redirect/redirect",
+    "pages/media-image/media-image",
+    "pages/media-video/media-video",
+    "pages/canvas/canvas",
+    "pages/map/map"
   ],
   "window": {
     "defaultTitle": "汇来米"
