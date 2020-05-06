@@ -83,3 +83,7 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.navigatorButton {
+    padding:30rpx;
+    background:f7f7f7,
+}

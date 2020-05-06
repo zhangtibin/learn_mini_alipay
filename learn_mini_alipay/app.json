@@ -23,7 +23,8 @@
     "pages/switch/switch",
     "pages/slider/slider",
     "pages/picker-view/picker-view",
-    "pages/picker/picker"
+    "pages/picker/picker",
+    "pages/navigator/navigator"
   ],
   "window": {
     "defaultTitle": "汇来米"

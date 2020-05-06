@@ -93,6 +93,9 @@ Page({
   onPicker(){
     my.navigateTo({url:'../picker/picker'});
   },
+  onNavigator(){
+        my.navigateTo({url:'../navigator/navigator'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

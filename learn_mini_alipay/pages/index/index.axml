@@ -7,6 +7,10 @@
             <button form-type="submit" type="primary">radio</button>
         </form>
 
+        <form class="navigatorButton" onSubmit="onNavigator" onReset="onReset">
+            <button form-type="submit" type="primary">navigator</button>
+        </form>
+
         <form class="pickerViewButton" onSubmit="onPickerView" onReset="onReset">
             <button form-type="submit" type="primary">pickerView</button>
         </form>
