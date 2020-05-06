@@ -24,7 +24,10 @@
     "pages/slider/slider",
     "pages/picker-view/picker-view",
     "pages/picker/picker",
-    "pages/navigator/navigator"
+    "pages/navigator/navigator",
+    "pages/navigator/navigate/navigate",
+    "pages/navigator/reLaunch/reLaunch",
+    "pages/navigator/redirect/redirect"
   ],
   "window": {
     "defaultTitle": "汇来米"
