@@ -1,0 +1,28 @@
+.containerButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.titleButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.listButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.listItemButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.listSecondaryButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.tabsButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.vTabsButton {
+    padding:30rpx;
+    background:f7f7f7,
+}

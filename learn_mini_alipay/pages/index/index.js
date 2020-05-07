@@ -94,7 +94,7 @@ Page({
     my.navigateTo({url:'../picker/picker'});
   },
   onNavigator(){
-        my.navigateTo({url:'../navigator/navigator'});
+    my.navigateTo({url:'../navigator/navigator'});
   },
   onMediaImage(){
     my.navigateTo({url:'../media-image/media-image'});
@@ -108,7 +108,9 @@ Page({
   onMap(){
     my.navigateTo({url:'../map/map'});
   },
-
+  onExtend(){
+    my.navigateTo({url:'../extend/extend'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

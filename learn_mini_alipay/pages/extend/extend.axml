@@ -1,0 +1,26 @@
+<view class="page">
+  <view class="view-descrition"></view> 
+  <view class="page-section">
+    <form class="containerButton" onSubmit="onContainer" onReset="onReset">
+            <button form-type="submit" type="primary">container</button>
+    </form>
+    <form class="titleButton" onSubmit="onTitle" onReset="onReset">
+            <button form-type="submit" type="primary">title</button>
+    </form>
+    <form class="listButton" onSubmit="onList" onReset="onReset">
+            <button form-type="submit" type="primary">list</button>
+    </form>
+    <form class="listItemButton" onSubmit="onListItem" onReset="onReset">
+            <button form-type="submit" type="primary">listItem</button>
+    </form>
+    <form class="listSecondaryButton" onSubmit="onListSecondary" onReset="onReset">
+            <button form-type="submit" type="primary">listSecondary</button>
+    </form>
+    <form class="tabsButton" onSubmit="onTabs" onReset="onReset">
+            <button form-type="submit" type="primary">tabs</button>
+    </form>
+    <form class="vTabsButton" onSubmit="onVTabs" onReset="onReset">
+            <button form-type="submit" type="primary">vTabs</button>
+    </form>
+  </view>
+</view>

@@ -103,3 +103,7 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.extendButton {
+    padding:30rpx;
+    background:f7f7f7,
+}

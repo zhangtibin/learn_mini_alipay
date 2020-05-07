@@ -31,7 +31,15 @@
     "pages/media-image/media-image",
     "pages/media-video/media-video",
     "pages/canvas/canvas",
-    "pages/map/map"
+    "pages/map/map",
+    "pages/extend/extend",
+    "pages/extend/container/container",
+    "pages/extend/title/title",
+    "pages/extend/list/list",
+    "pages/extend/list-item/list-item",
+    "pages/extend/list-secondary/list-secondary",
+    "pages/extend/tabs/tabs",
+    "pages/extend/vTabs/vTabs"
   ],
   "window": {
     "defaultTitle": "汇来米"

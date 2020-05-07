@@ -1,6 +1,12 @@
 
 <view class="page">
-  <view class="view-descrition"></view>
+<view class="view-descrition"></view>  
+
+    <view class="page-section">
+        <form class="extendButton" onSubmit="onExtend" onReset="onReset">
+            <button form-type="submit" type="primary">extend</button>
+        </form>
+    </view>
 
     <view class="page-section">
         <form class="mapButton" onSubmit="onMap" onReset="onReset">
