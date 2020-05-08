@@ -82,3 +82,47 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.tipsButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.noticeButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.badgeButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.tagButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.maskButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.guideButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.avatarButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.inputItemButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.verifyCodeButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.pickerItemButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.longPasswordButton{
+    padding:30rpx;
+    background:f7f7f7,
+}

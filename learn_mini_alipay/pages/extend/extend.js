@@ -87,6 +87,39 @@ Page({
   onMessage(){
     my.navigateTo({url:'../extend/message/message'});
   },
+  onTips(){
+    my.navigateTo({url:'../extend/tips/tips'});
+  },
+  onNotice(){
+    my.navigateTo({url:'../extend/notice/notice'});
+  },
+  onBadge(){
+    my.navigateTo({url:'../extend/badge/badge'});
+  },
+  onTag(){
+    my.navigateTo({url:'../extend/tag/tag'});
+  },
+  onMask(){
+    my.navigateTo({url:'../extend/mask/mask'});
+  },
+  onGuide(){
+    my.navigateTo({url:'../extend/guide/guide'});
+  },
+  onAvatar(){
+    my.navigateTo({url:'../extend/avatar/avatar'});
+  },
+  onInputItem(){
+    my.navigateTo({url:'../extend/input-item/input-item'});
+  },
+  onVerifyCode(){
+    my.navigateTo({url:'../extend/verify-code/verify-code'});
+  },
+  onPickerItem(){
+    my.navigateTo({url:'../extend/picker-item/picker-item'});
+  },
+  onLongPassword(){
+    my.navigateTo({url:'../extend/long-password/long-password'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

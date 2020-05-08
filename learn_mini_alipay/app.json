@@ -75,7 +75,19 @@
     "pages/extend/page-result/network/network",
     "pages/extend/page-result/payment/payment",
     "pages/extend/page-result/redpacket/redpacket",
-    "pages/extend/message/message"
+    "pages/extend/message/message",
+    "pages/extend/tips/tips",
+    "pages/extend/notice/notice",
+    "pages/extend/badge/badge",
+    "pages/extend/tag/tag",
+    "pages/extend/mask/mask",
+    "pages/extend/guide/guide",
+    "pages/extend/avatar/avatar",
+    "pages/extend/input-item/input-item",
+    "pages/extend/verify-code/verify-code",
+    "pages/extend/picker-item/picker-item",
+    "pages/extend/long-password/long-password",
+    "pages/extend/multi-liner/multi-liner"
   ],
   "window": {
     "defaultTitle": "汇来米"

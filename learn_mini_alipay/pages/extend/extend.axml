@@ -1,5 +1,42 @@
 <view class="page">
   <view class="view-descrition"></view> 
+  <view class="page-section">
+        <form class="inputItemButton" onSubmit="onInputItem" onReset="onReset">
+            <button form-type="submit" type="primary">inputItem</button>
+        </form>
+        <form class="verifyCodeButton" onSubmit="onVerifyCode" onReset="onReset">
+            <button form-type="submit" type="primary">verifyCode</button>
+        </form>
+        <form class="pickerItemButton" onSubmit="onPickerItem" onReset="onReset">
+            <button form-type="submit" type="primary">pickerItem</button>
+        </form>
+        <form class="longPasswordButton" onSubmit="onLongPassword" onReset="onReset">
+            <button form-type="submit" type="primary">longPassword</button>
+        </form>
+    </view>
+    <view class="page-section">
+        <form class="tipsButton" onSubmit="onTips" onReset="onReset">
+            <button form-type="submit" type="primary">tips</button>
+        </form>
+        <form class="noticeButton" onSubmit="onNotice" onReset="onReset">
+            <button form-type="submit" type="primary">notice</button>
+        </form>
+        <form class="badgeButton" onSubmit="onBadge" onReset="onReset">
+            <button form-type="submit" type="primary">badge</button>
+        </form>
+        <form class="tagButton" onSubmit="onTag" onReset="onReset">
+            <button form-type="submit" type="primary">tag</button>
+        </form>
+        <form class="maskButton" onSubmit="onMask" onReset="onReset">
+            <button form-type="submit" type="primary">mask</button>
+        </form>
+        <form class="guideButton" onSubmit="onGuide" onReset="onReset">
+            <button form-type="submit" type="primary">guide</button>
+        </form>
+        <form class="avatarButton" onSubmit="onAvatar" onReset="onReset">
+            <button form-type="submit" type="primary">avatar</button>
+        </form>
+    </view>
     <view class="page-section">
         <form class="pageResultButton" onSubmit="onPageResult" onReset="onReset">
             <button form-type="submit" type="primary">pageResult</button>
