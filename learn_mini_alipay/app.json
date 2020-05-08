@@ -39,7 +39,19 @@
     "pages/extend/list-item/list-item",
     "pages/extend/list-secondary/list-secondary",
     "pages/extend/tabs/tabs",
-    "pages/extend/vTabs/vTabs"
+    "pages/extend/vTabs/vTabs",
+    "pages/extend/card/card",
+    "pages/extend/coupon/coupon",
+    "pages/extend/grid/grid",
+    "pages/extend/grid/2/2",
+    "pages/extend/grid/3/3",
+    "pages/extend/grid/4/4",
+    "pages/extend/grid/5/5",
+    "pages/extend/steps/steps",
+    "pages/extend/footer/footer",
+    "pages/extend/terms/terms",
+    "pages/extend/flex/flex",
+    "pages/extend/collapse/collapse"
   ],
   "window": {
     "defaultTitle": "汇来米"

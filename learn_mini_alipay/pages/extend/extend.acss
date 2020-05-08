@@ -26,3 +26,35 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.cardButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.couponButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.gridButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.stepsButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.footerButton {
+    padding:30rpx;
+    background:f7f7f7,
+}
+.termsButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.flexButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.collapseButton{
+    padding:30rpx;
+    background:f7f7f7,
+}

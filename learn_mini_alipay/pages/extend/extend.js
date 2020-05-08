@@ -45,6 +45,30 @@ Page({
   onVTabs(){
     my.navigateTo({url:'../extend/vTabs/vTabs'});
   },
+  onCard(){
+    my.navigateTo({url:'../extend/card/card'});
+  },
+  onCoupon() {
+    my.navigateTo({url:'../extend/coupon/coupon'});
+  },
+  onGrid() {
+    my.navigateTo({url:'../extend/grid/grid'});
+  },
+  onSteps(){
+    my.navigateTo({url:'../extend/steps/steps'});
+  },
+  onFooter(){
+    my.navigateTo({url:'../extend/footer/footer'});
+  },
+  onTerms(){
+    my.navigateTo({url:'../extend/terms/terms'});
+  },
+  onFlex(){
+    my.navigateTo({url:'../extend/flex/flex'});
+  },
+  onCollapse(){
+    my.navigateTo({url:'../extend/collapse/collapse'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {
