@@ -69,6 +69,24 @@ Page({
   onCollapse(){
     my.navigateTo({url:'../extend/collapse/collapse'});
   },
+  onPopover(){
+    my.navigateTo({url:'../extend/popover/popover'});
+  },
+  onFilter(){
+    my.navigateTo({url:'../extend/filter/filter'});
+  },
+  onModal(){
+    my.navigateTo({url:'../extend/modal/modal'});
+  },
+  onPopup(){
+    my.navigateTo({url:'../extend/popup/popup'});
+  },
+  onPageResult(){
+    my.navigateTo({url:'../extend/page-result/page-result'});
+  },
+  onMessage(){
+    my.navigateTo({url:'../extend/message/message'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

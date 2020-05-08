@@ -1,5 +1,27 @@
 <view class="page">
   <view class="view-descrition"></view> 
+    <view class="page-section">
+        <form class="pageResultButton" onSubmit="onPageResult" onReset="onReset">
+            <button form-type="submit" type="primary">pageResult</button>
+        </form>
+        <form class="messageButton" onSubmit="onMessage" onReset="onReset">
+            <button form-type="submit" type="primary">message</button>
+        </form>
+    </view>
+    <view class="page-section">
+        <form class="popoverButton" onSubmit="onPopover" onReset="onReset">
+            <button form-type="submit" type="primary">popover</button>
+        </form>
+        <form class="filterButton" onSubmit="onFilter" onReset="onReset">
+            <button form-type="submit" type="primary">filter</button>
+        </form>
+        <form class="modalButton" onSubmit="onModal" onReset="onReset">
+            <button form-type="submit" type="primary">modal</button>
+        </form>
+        <form class="popupButton" onSubmit="onPopup" onReset="onReset">
+            <button form-type="submit" type="primary">popup</button>
+        </form>
+    </view>
   <view class="page-section">
     <form class="flexButton" onSubmit="onFlex" onReset="onReset">
             <button form-type="submit" type="primary">flex</button>

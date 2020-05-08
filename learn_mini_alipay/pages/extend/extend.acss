@@ -58,3 +58,27 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.popoverButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.filterButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.modalButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.popupButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.pageResultButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.messageButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
