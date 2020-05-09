@@ -1,10 +1,15 @@
 
 <view class="page">
 <view class="view-descrition"></view>  
+    <view class="page-section">
+        <form class="Button" onSubmit="onExtend" onReset="onReset">
+            <button form-type="submit" type="primary">extend</button>
+        </form>
+    </view>
 
     <view class="page-section">
-        <form class="extendButton" onSubmit="onExtend" onReset="onReset">
-            <button form-type="submit" type="primary">extend</button>
+        <form class="marketingButton" onSubmit="onMarketing" onReset="onReset">
+            <button form-type="submit" type="primary">marketing</button>
         </form>
     </view>
 

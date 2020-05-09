@@ -111,6 +111,9 @@ Page({
   onExtend(){
     my.navigateTo({url:'../extend/extend'});
   },
+  onMarketing(){
+    my.navigateTo({url:'../marketing/marketing'});
+  },
   onShareAppMessage() {
     // 返回自定义分享信息
     return {

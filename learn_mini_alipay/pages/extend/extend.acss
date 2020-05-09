@@ -126,3 +126,59 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.multiLinerButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.amountInputButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.extendButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.amSwitchButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.searchBarButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.amRadioButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.amCheckboxButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.swipeActionButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.paginationButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.calendarButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.steperButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.amIconButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.alphabetButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
+.loadingButton{
+    padding:30rpx;
+    background:f7f7f7,
+}

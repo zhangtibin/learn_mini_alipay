@@ -1,6 +1,31 @@
 <view class="page">
   <view class="view-descrition"></view> 
   <view class="page-section">
+        <form class="paginationButton" onSubmit="onPagination" onReset="onReset">
+            <button form-type="submit" type="primary">pagination</button>
+        </form>
+        <form class="calendarButton" onSubmit="onCalendar" onReset="onReset">
+            <button form-type="submit" type="primary">calendar</button>
+        </form>
+        <form class="steperButton" onSubmit="onSteper" onReset="onReset">
+            <button form-type="submit" type="primary">steper</button>
+        </form>
+        <form class="amIconButton" onSubmit="onAMIcon" onReset="onReset">
+            <button form-type="submit" type="primary">amIcon</button>
+        </form>
+        <form class="alphabetButton" onSubmit="onAlphabet" onReset="onReset">
+            <button form-type="submit" type="primary">alphabet</button>
+        </form>
+        <form class="loadingButton" onSubmit="onLoading" onReset="onReset">
+            <button form-type="submit" type="primary">loading</button>
+        </form>
+  </view>
+  <view class="page-section">
+        <form class="swipeActionButton" onSubmit="onSwipeAction" onReset="onReset">
+            <button form-type="submit" type="primary">swipeAction</button>
+        </form>
+  </view>
+  <view class="page-section">
         <form class="inputItemButton" onSubmit="onInputItem" onReset="onReset">
             <button form-type="submit" type="primary">inputItem</button>
         </form>
@@ -13,6 +38,28 @@
         <form class="longPasswordButton" onSubmit="onLongPassword" onReset="onReset">
             <button form-type="submit" type="primary">longPassword</button>
         </form>
+        <form class="multiLinerButton" onSubmit="onMultiLiner" onReset="onReset">
+            <button form-type="submit" type="primary">multiLiner</button>
+        </form>
+        <form class="amountInputButton" onSubmit="onAmountInput" onReset="onReset">
+            <button form-type="submit" type="primary">amountInput</button>
+        </form>
+        <form class="extendButton" onSubmit="onExtendButton" onReset="onReset">
+            <button form-type="submit" type="primary">extendButton</button>
+        </form>
+        <form class="amSwitchButton" onSubmit="onAmSwitch" onReset="onReset">
+            <button form-type="submit" type="primary">amSwitch</button>
+        </form>
+        <form class="searchBarButton" onSubmit="onSearchBar" onReset="onReset">
+            <button form-type="submit" type="primary">searchBar</button>
+        </form>
+        <form class="amRadioButton" onSubmit="onAMRadio" onReset="onReset">
+            <button form-type="submit" type="primary">AMRadio</button>
+        </form>
+        <form class="amCheckboxButton" onSubmit="onAMCheckbox" onReset="onReset">
+            <button form-type="submit" type="primary">AMCheckbox</button>
+        </form>
+        
     </view>
     <view class="page-section">
         <form class="tipsButton" onSubmit="onTips" onReset="onReset">

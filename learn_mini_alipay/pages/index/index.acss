@@ -107,3 +107,7 @@
     padding:30rpx;
     background:f7f7f7,
 }
+.marketingButton{
+    padding:30rpx;
+    background:f7f7f7,
+}
